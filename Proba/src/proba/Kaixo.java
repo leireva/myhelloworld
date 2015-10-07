@@ -3,6 +3,6 @@ package proba;
 public class Kaixo {
 
 	public static void main(String[] args) {
-		System.out.println("Kaixo mundua! Hello World!");
+		System.out.println("Kaixo mundua! Hello World! Hola mundo!!");
 	}
 }
